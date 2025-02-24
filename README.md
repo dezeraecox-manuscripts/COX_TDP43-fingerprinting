@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/..../.svg)](https://doi.org/###/zenodo.###)
 
-# AUTHOR_Running-title
+# COX_TDP43-fingerprinting
 
 This repository contains the analysis code associated with the MND<sub>TDP</sub> single-molecul pulldown project, led by Dr Dezerae Cox. This manuscript has been submitted for publication under the title ***Fingerprinting disease-derived protein aggregates reveals unique signature of Motor Neuron Disease***.
 
