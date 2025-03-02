@@ -1,10 +1,10 @@
-cff-version: 1.0.0
+cff-version: 0.1.0
 message: "If you use this respository, please cite the manuscript alongside the following:"
 authors:
-  - family-names: 
-    given-names: 
-    orcid: https://orcid.org/
-title: ""
+  - family-names: Cox
+    given-names: Dezerae
+    orcid: https://orcid.org/0000-0002-5345-8360
+title: "Source code for *Fingerprinting disease-derived protein aggregates reveals unique signature of Motor Neuron Disease*"
 version: 1.0
 doi: 
 date-released: 
