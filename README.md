@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/..../.svg)](https://doi.org/###/zenodo.###)
+[![DOI](https://zenodo.org/badge/..../.svg)](https://doi.org/10.5281/zenodo.14960397)
 
 # COX_TDP43-fingerprinting
 
@@ -12,7 +12,7 @@ This analysis assumes a standard installation of Python3 (=> 3.8). For specific 
 
 ## Raw data
 
-The proteomics ```.RAW``` files have been deposited via the [PRIDE][1]<sup>[1]</sup> partner repository to the [ProteomeXchange Consortium][2]<sup>[2]</sup> under the dataset identifier PXD######. In addition, preprocessed data (including identification and quantitation for proteomics, and property summaries for microscopy data; hereon termed raw data) have also been uploaded as an open-access [Zenodo dataset](https://doi.org/###/zenodo.###). These data can be collected automatically using the ```raw_data.py``` script in each of the respective ```src``` analysis folders.
+The proteomics ```.RAW``` files have been deposited via the [PRIDE][1]<sup>[1]</sup> partner repository to the [ProteomeXchange Consortium][2]<sup>[2]</sup> under the dataset identifier PXD061429. In addition, preprocessed data (including identification and quantitation for proteomics, and property summaries for microscopy data; hereon termed raw data) have also been uploaded as an open-access [Zenodo dataset](https://doi.org/10.5281/zenodo.14960397). These data can be collected automatically using the ```raw_data.py``` script in each of the respective ```src``` analysis folders.
 
 
 ## Workflow
