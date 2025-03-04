@@ -19,10 +19,10 @@ def download_file(url, output_folder):
 if __name__ == "__main__":
 
     datasets = {
-        'microscopy-tissue': 'https://',
-        'microscopy-RRMs': 'https://',
-        'proteomics': 'https://',
-        'orthogonals': 'https://',
+        'microscopy-tissue': 'https://zenodo.org/records/14960397/files/microscopy-tissue.zip',
+        'microscopy-RRMs': 'https://zenodo.org/records/14960397/files/microscopy-RRMs.zip',
+        'proteomics': 'https://zenodo.org/records/14960397/files/proteomics.zip',
+        'orthogonals': 'https://zenodo.org/records/14960397/files/orthogonals.zip',
     }
 
     for dataset, url in datasets.items():
